@@ -6,5 +6,5 @@
 * Структура класса;
 и т.д.
 
-![Image](D:\GitRep\Course_paper\img\Image.png)
+![Image](/img/Image.png)
 
