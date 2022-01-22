@@ -8,3 +8,4 @@
 
 ![Image](/img/Image.png)
 
+![Image](https://github.com/VladimirTimofeev/Course_paper/blob/main/img/Image.png)
